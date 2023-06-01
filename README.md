@@ -1,4 +1,4 @@
-## Food Ordering App
+## Vendorfy
 
 ### Features:
 
@@ -6,11 +6,7 @@
 
 ##### Here's features included in this project
 
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
+- Vendors on google map
 - Contact page
 - Awesome modern minimalist UI
 
